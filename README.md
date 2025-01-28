@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and learn new and intresting things
 - 🌱 I’m currently learning CS50 Harvard
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohammadaminnateghi2003@gmail.com
+- 📫 How to reach me mnateghii82@gmail.com
 
 <!---
 mnateghi1/mnateghi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

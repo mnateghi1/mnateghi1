@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on django<br>🌱 I’m currently learning about project management<br>👀 I’m interested in programming and learn new and intresting things<br>💬 Ask me about python, django, c, cpp, algorithms and etc.<br>📫 How to reach me mnateghii82@gmail.com
+🔭 I'm currently working on django<br>🌱 I’m currently learning about project management<br>👀 I’m interested in programming and learn new and intresting things<br>💬 Ask me about python, django, c, cpp, algorithms and etc.<br>
 
 
 ## 🌐 Socials:
